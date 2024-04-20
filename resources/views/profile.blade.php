@@ -4,7 +4,7 @@
 <!-- Mirrored from slimhamdi.net/tunis-tailwind/demos/dark.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 10 Apr 2024 12:49:00 GMT -->
 <head>
       <meta charset="utf-8">
-      <title>Tunis - Tailwind CSS Personal Portfolio HTML Template</title>
+      <title>Premkumar Personal Portfolio</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <!-- Template Google Fonts -->
       <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900" rel="stylesheet">
